@@ -26,14 +26,7 @@ This Proof of Concept (PoC) project integrates a Large Language Model (LLM) usin
    pip install fastmcp ib_insync python-dotenv openai asyncio
    ```
 
-3. Install and run Ollama locally, and pull the DeepSeek model:
-
-   ```bash
-   ollama pull deepseek
-   ollama serve  # Run Ollama in the background
-   ```
-
-4. Create a `.env` file in the project root with:
+3. Create a `.env` file in the project root with:
 
    ```ini
    IB_HOST=127.0.0.1
