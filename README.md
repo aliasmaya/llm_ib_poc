@@ -69,6 +69,5 @@ MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
-- [Ollama](https://ollama.com) for local LLM deployment.
 - [FastMCP](https://github.com/jlowin/fastmcp) for tool discovery.
 - [ib_insync](https://github.com/erdewit/ib_insync) for IB TWS API integration.
